@@ -1,0 +1,9 @@
+Nego_Ney = str(input('Pelo que a entidade denominada Nego Ney é responsavel? '))
+if Nego_Ney == 'Caos e destruição':
+    print('Yes')
+elif Nego_Ney == 'Coronavírus' or Nego_Ney == 'Aids':
+    print('YES YES YES')
+elif Nego_Ney == 'Holocautos' or '11 de setembro':
+    print('YES YES YES YES YES YES')
+else:
+    print('YES YES YES YES YES YES YES YES YES YES YES YES...')
